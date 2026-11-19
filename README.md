@@ -17,5 +17,3 @@ El proyecto permite tomar una grabación limpia (seca) y aplicarle las caracter�
 * **Audio Toolbox** (necesario para la reproducción de audio en tiempo real).
 * Dos archivos en formato `.wav` (uno con el audio base y otro con el impulso acústico).
 
----
-*Proyecto académico desarrollado en la Universidad de Cuenca (UCuenca).*
